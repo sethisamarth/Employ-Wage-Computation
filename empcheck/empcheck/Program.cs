@@ -24,6 +24,7 @@ namespace empcheck
             }
             emp_wage = emp_hr * emp_rate_per_hr;
             Console.WriteLine("emp_wage :" + emp_wage);
+            
         }
     }
 }
