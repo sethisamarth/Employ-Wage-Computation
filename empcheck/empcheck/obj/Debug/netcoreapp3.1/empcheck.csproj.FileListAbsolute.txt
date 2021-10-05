@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\bin\Debug\netcoreapp3.1\empcheck.exe
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\bin\Debug\netcoreapp3.1\empcheck.deps.json
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\bin\Debug\netcoreapp3.1\empcheck.runtimeconfig.json
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\bin\Debug\netcoreapp3.1\empcheck.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\bin\Debug\netcoreapp3.1\empcheck.dll
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\bin\Debug\netcoreapp3.1\empcheck.pdb
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\obj\Debug\netcoreapp3.1\empcheck.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\obj\Debug\netcoreapp3.1\empcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\obj\Debug\netcoreapp3.1\empcheck.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\obj\Debug\netcoreapp3.1\empcheck.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\obj\Debug\netcoreapp3.1\empcheck.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\obj\Debug\netcoreapp3.1\empcheck.dll
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\obj\Debug\netcoreapp3.1\empcheck.pdb
+C:\Users\Lenovo\Desktop\employ is p or a\empcheck\empcheck\obj\Debug\netcoreapp3.1\empcheck.genruntimeconfig.cache

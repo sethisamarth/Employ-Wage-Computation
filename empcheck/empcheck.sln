@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empcheck", "empcheck\empcheck.csproj", "{1D513DE3-67D1-4011-81FE-4D1D3D3527E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D513DE3-67D1-4011-81FE-4D1D3D3527E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D513DE3-67D1-4011-81FE-4D1D3D3527E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D513DE3-67D1-4011-81FE-4D1D3D3527E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D513DE3-67D1-4011-81FE-4D1D3D3527E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55B146B-F6EE-4044-9E9A-E0E45E4AED30}
+	EndGlobalSection
+EndGlobal
