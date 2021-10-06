@@ -12,35 +12,41 @@ namespace empcheck
             int emp_hr = 0;
             int emp_wage = 0;
             int working_days_in_month = 20;
-            int emp_wage_in_month = 0;
+            
+            int totalworkhr = 0;
+            int totalwage = 0;
+           // int maxworkhrs = 100;
+            int day = 1;
             Random random = new Random();
 
-
-            int empcheck = random.Next(0 , 3);
-            switch (empcheck)
+            for (day = 1; day <= working_days_in_month; day++)
             {
-                case 1:
-                   emp_hr = 8; 
-                    break;
-                case 2:
-                emp_hr = 4;
 
-                    break;
-                default:
-                    emp_hr = 0;
 
-                    break;
+                int empcheck = random.Next(0, 3);
+                switch (empcheck)
+                {
+                    case 1:
+                        emp_hr = 8;
+                        break;
+                    case 2:
+                        emp_hr = 4;
+
+                        break;
+                    default:
+                        emp_hr = 0;
+
+                        break;
+
+                }
+
+                totalworkhr = totalworkhr + emp_hr;
+              
             }
 
-            emp_wage = emp_hr * emp_rate_per_hr;
-            emp_wage_in_month = emp_wage * working_days_in_month;
-
-
-            Console.WriteLine("emp_wage :" + emp_wage);
-            Console.WriteLine("emp_wage_in_month :" + emp_wage_in_month);
-            
-
-            Console.ReadLine();
+            totalwage = totalworkhr * emp_rate_per_hr;
+            Console.WriteLine("totalwage for a month is :" + totalwage);
+ 
         }
     }
 }
