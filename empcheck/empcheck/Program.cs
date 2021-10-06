@@ -10,16 +10,16 @@ namespace empcheck
           int is_present = 1;
           int is_part_present = 2;
             int emp_hr = 0;
-            int emp_wage = 0;
+          //  int emp_wage = 0;
             int working_days_in_month = 20;
             
             int totalworkhr = 0;
-            int totalwage = 0;
-           // int maxworkhrs = 100;
+            int totalwage;
+            int maxworkhrs = 100;
             int day = 1;
             Random random = new Random();
 
-            for (day = 1; day <= working_days_in_month; day++)
+            while (day <= working_days_in_month  && emp_hr <= maxworkhrs)
             {
 
 
@@ -46,6 +46,7 @@ namespace empcheck
 
             totalwage = totalworkhr * emp_rate_per_hr;
             Console.WriteLine("totalwage for a month is :" + totalwage);
+            Console.WriteLine("totalworkhr for a month is :" + totalworkhr);
  
         }
     }
