@@ -19,7 +19,7 @@ namespace empcheck
             int day = 1;
             Random random = new Random();
 
-            while (day <= working_days_in_month  && emp_hr <= maxworkhrs)
+            while (day <= working_days_in_month  && totalworkhr <= maxworkhrs)
             {
 
 
