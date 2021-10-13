@@ -2,9 +2,10 @@
 
 namespace empcheck
 {
+    
     class Program
     {
-        static void Main(string[] args)
+       public static int  computeEmpWage()  
         {
             int emp_rate_per_hr = 20;
           int is_present = 1;
@@ -47,7 +48,12 @@ namespace empcheck
             totalwage = totalworkhr * emp_rate_per_hr;
             Console.WriteLine("totalwage for a month is :" + totalwage);
             Console.WriteLine("totalworkhr for a month is :" + totalworkhr);
+           return totalwage;
  
+        }
+         static void Main()
+        {
+           computeEmpWage();
         }
     }
 }
